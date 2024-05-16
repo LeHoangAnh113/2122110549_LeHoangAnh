@@ -1,0 +1,29 @@
+{
+    "products":[  
+        {"ten":"ao thun 1","gia":"999999"},
+        {"ten":"ao thun 2","gia":"888888"},
+        {"ten":"ao thun 3","gia":"777777"},
+        {"ten":"ao thun 4","gia":"666666"},
+        {"ten":"ao thun 5","gia":"555555"}],
+        
+    "catelory":[  
+        {"ten":"ao thun 1","gia":"999999"},
+        {"ten":"ao thun 2","gia":"888888"},
+        {"ten":"ao thun 3","gia":"777777"},
+        {"ten":"ao thun 4","gia":"666666"},
+        {"ten":"ao thun 5","gia":"555555"}],
+    "menu":[  
+        {"ten":"ao thun 1","gia":"999999"},
+        {"ten":"ao thun 2","gia":"888888"},
+        {"ten":"ao thun 3","gia":"777777"},
+        {"ten":"ao thun 4","gia":"666666"},
+        {"ten":"ao thun 5","gia":"555555"}],
+    "slider":[  
+        {"ten":"ao thun 1","gia":"999999"},
+        {"ten":"ao thun 2","gia":"888888"},
+        {"ten":"ao thun 3","gia":"777777"},
+        {"ten":"ao thun 4","gia":"666666"},
+        {"ten":"ao thun 5","gia":"555555"}]
+        
+
+  }
