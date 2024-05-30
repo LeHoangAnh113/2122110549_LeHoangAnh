@@ -1,13 +1,14 @@
 import React from "react";
-import logo from "../assets/logo.webp"
+import Chinhsach_2 from "../assets/chinhsach_2.webp"
+
 const ChinhSachItem=(props)=>{
-    const Image = props.image;
+    const Image =props.image;
     const Title = props.title;
     const Des= props.des;
     return(
         <div className='row'>
         <div className='col-4'>
-        <img src={Image} className='img-fluid' alt='logo.webp'></img>
+        <img src={Image} className='img-fluid' alt={Image}></img>
         </div>
         <div className='col-8'>
             <p className='p-0 m-0'><strong>{Title}</strong></p>

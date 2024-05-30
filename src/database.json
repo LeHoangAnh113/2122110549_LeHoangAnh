@@ -1,0 +1,81 @@
+{
+    "categorys":[
+    { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ],
+    "brands":[
+      { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ],
+    "users":[
+           { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ],
+    "contacts":[
+           { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ],
+    "products":[
+           { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ],
+   "banners": [
+  { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+],
+    "topics":[
+              { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ],
+    "menus":[
+            { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ],
+    "orders":[
+         { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ],
+    "orderdetails":[
+             { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ],
+    "posts":[
+      { "id": 1, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 2, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 3, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 4, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" },
+  { "id": 5, "name": "thoi trang nam", "link": "https://coccoc.com/search?query=m.facebook.com", "position": "hoanganh" }
+    ]
+
+}
+
